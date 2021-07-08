@@ -61,7 +61,7 @@ customJS = []
 
 
 [utterances]
-  repo = "cottongin/blog.cottongin.xyz"
+  repo = "cottongin/cottongin.github.io"
   issueTerm = "pathname" # pathname, url, title, og:title
   label = "comment"
   theme = "preferred-color-scheme" # github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
