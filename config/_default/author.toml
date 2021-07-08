@@ -1,0 +1,6 @@
+name = "cottongin"
+avatar = "images/profile.jpeg" # Avatar image. Default to "images/profile.webp".
+bio = "certified retard"
+company = "self-employed"
+location = "USA 🇺🇸"
+# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
